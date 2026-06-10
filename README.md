@@ -18,6 +18,8 @@ For Windows users: Shift+Right click anywhere inside the folder containing dmu-s
 
 The same arguments should also work for Linux users running it through Wine.
 
+Alternative for Linux Users: you can download the Linux version of the Godot engine (any 4.7 version should work). Extract the `godot_..._linux.x86_64` file and rename it to `dmu-sim` and run it in the dmu-sim folder.
+
 If you're on a laptop with integrated GPU and neither DX12 or Vulkan works, you can also try replacing `vulkan` with `opengl3`, though you will see a big drop in performance.
 
 
