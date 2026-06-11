@@ -21,7 +21,7 @@ A modified simulator of FFXIV Dancing Mad (Ultimate) phase 2 towers, forked from
 
 # DMU-Sim-online
 
-基于 [WCGH/Waju-Sims DMU SIM beta v1.9](https://github.com/WCGH/Waju-Sims/releases/tag/dmu-0.1.x) 的最终幻想14 绝龙诗P2塔模拟器修改版。
+基于 [WCGH/Waju-Sims DMU SIM beta v1.9](https://github.com/WCGH/Waju-Sims/releases/tag/dmu-0.1.x) 的最终幻想14 绝妖星P2塔模拟器联网修改版。
 
 ## ✨ 功能
 
